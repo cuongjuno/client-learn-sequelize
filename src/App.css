@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.focus-span:hover{
+ color:#61dafb ;
+ cursor: pointer;
+}
+tr input{
+  display: block;
+  text-align: center;
+  margin: auto;
+  border: none;
+  background-color: transparent;
+}
